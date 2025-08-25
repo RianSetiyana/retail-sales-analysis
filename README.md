@@ -25,7 +25,8 @@ Beberapa insight yang diperoleh dari analisis:
 
 *(Detail insight lengkap tersedia pada dashboard dan notebook di folder terkait.)*
 
-
+---
+✍️ Dibuat oleh **Rian Setiyana** – sebagai bagian dari portofolio Data Analyst.
 
 ## ⚠️ Disclaimer
 Dataset yang digunakan pada project ini merupakan **data fiktif** yang di-*generate* untuk tujuan pembelajaran dan portofolio.  
