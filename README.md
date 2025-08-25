@@ -5,9 +5,16 @@ Project ini bertujuan untuk melakukan analisis data penjualan retail sederhana g
 Analisis dilakukan menggunakan berbagai tools data analyst (Python, SQL, Power BI, dan Excel).
 
 ## 🎯 Tujuan
-- Mengidentifikasi produk dan brand dengan penjualan tertinggi.
-- Menganalisis tren penjualan berdasarkan periode waktu.
-- Mengevaluasi efektivitas diskon terhadap total penjualan.
-- Memberikan insight yang dapat digunakan untuk strategi optimasi penjualan.
+- Menganalisis performa produk, brand, dan kategori
+- Menilai pengaruh diskon terhadap penjualan
+- Mengungkap pola penjualan per bulan & wilayah
+- Menyajikan insight melalui dashboard interaktif
 
 ## 🗂️ Struktur Folder
+📂 retail-sales-analysis
+├── 📄 README.md
+├── 📂 data → dataset mentah & olahan
+├── 📂 sql → query SQL
+├── 📂 python → script analisis python + notebook
+├── 📂 powerbi → file dashboard Power BI
+└── 📂 images → screenshot dashboard/visualisasi
