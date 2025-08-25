@@ -25,6 +25,8 @@ Beberapa insight yang diperoleh dari analisis:
 
 *(Detail insight lengkap tersedia pada dashboard dan notebook di folder terkait.)*
 
+## 📸 Screenshot Dashboard
+
 ## ⚠️ Disclaimer
 Dataset yang digunakan pada project ini merupakan **data fiktif** yang di-*generate* untuk tujuan pembelajaran dan portofolio.  
 Tidak ada data asli perusahaan atau data sensitif yang digunakan dalam analisis ini.
