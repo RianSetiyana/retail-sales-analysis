@@ -11,7 +11,7 @@ Analisis dilakukan menggunakan berbagai tools data analyst (Python, SQL, Power B
 - Menyajikan insight melalui dashboard interaktif
 
 ## 🗂️ Struktur Folder
-📂 retail-sales-analysis
+📂 retail-sales-analysis<br>
 ├── 📄 README.md
 ├── 📂 data → dataset mentah & olahan
 ├── 📂 sql → query SQL
