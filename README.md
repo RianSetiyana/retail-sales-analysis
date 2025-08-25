@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi Project
 Project ini bertujuan untuk melakukan analisis data penjualan retail sederhana guna menemukan pola, tren, serta peluang optimasi yang dapat membantu dalam pengambilan keputusan bisnis.  
-Analisis dilakukan menggunakan berbagai tools data analyst (Python, SQL, Power BI, dan Excel).
+Analisis dilakukan menggunakan berbagai tools data analyst (SQL, Python, dan Power BI).
 
 ## 🎯 Tujuan
 - Menganalisis performa produk, brand, dan kategori
@@ -10,11 +10,7 @@ Analisis dilakukan menggunakan berbagai tools data analyst (Python, SQL, Power B
 - Mengungkap pola penjualan per bulan & wilayah
 - Menyajikan insight melalui dashboard interaktif
 
-## 🗂️ Struktur Folder
-📂 retail-sales-analysis<br>
-├── 📄 README.md
-├── 📂 data → dataset mentah & olahan
-├── 📂 sql → query SQL
-├── 📂 python → script analisis python + notebook
-├── 📂 powerbi → file dashboard Power BI
-└── 📂 images → screenshot dashboard/visualisasi
+## 🛠️ Tools yang Digunakan
+- **SQL** → query untuk join & filtering data.
+- **Python** → eksplorasi data, agregasi, dan visualisasi.
+- **Power BI** → pembuatan dashboard interaktif.
