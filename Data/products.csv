@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,unit_price
+P001,Produk 1,Pakaian,Levi's,41185
+P002,Produk 2,Snack,Indomaret,6645
+P003,Produk 3,Kebutuhan Harian,Aqua,24256
+P004,Produk 4,Snack,Levi's,40840
+P005,Produk 5,Elektronik,Levi's,39622
+P006,Produk 6,Minuman,Levi's,42430
+P007,Produk 7,Kebutuhan Harian,Aqua,44282
+P008,Produk 8,Pakaian,Aqua,7708
+P009,Produk 9,Elektronik,Samsung,16694
+P010,Produk 10,Snack,Indomaret,14524
+P011,Produk 11,Elektronik,Lifebuoy,36880
+P012,Produk 12,Kebutuhan Harian,Levi's,44224
+P013,Produk 13,Snack,Samsung,41980
+P014,Produk 14,Minuman,Lifebuoy,37409
+P015,Produk 15,Elektronik,Samsung,18224
+P016,Produk 16,Kebutuhan Harian,Aqua,45738
+P017,Produk 17,Pakaian,Levi's,30150
+P018,Produk 18,Snack,Lifebuoy,39393
+P019,Produk 19,Elektronik,Lifebuoy,48082
+P020,Produk 20,Elektronik,Lifebuoy,12973
+P021,Produk 21,Minuman,Lifebuoy,13577
+P022,Produk 22,Minuman,Lifebuoy,13070
+P023,Produk 23,Pakaian,Samsung,13666
+P024,Produk 24,Pakaian,Levi's,41368
+P025,Produk 25,Kebutuhan Harian,Aqua,11783
+P026,Produk 26,Kebutuhan Harian,Aqua,46914
+P027,Produk 27,Pakaian,Aqua,9971
+P028,Produk 28,Pakaian,Aqua,18490
+P029,Produk 29,Snack,Samsung,6990
+P030,Produk 30,Minuman,Indomaret,10299
+P031,Produk 31,Kebutuhan Harian,Levi's,24956
+P032,Produk 32,Minuman,Lifebuoy,27359
+P033,Produk 33,Minuman,Indomaret,42148
+P034,Produk 34,Pakaian,Aqua,33734
+P035,Produk 35,Snack,Indomaret,9757
+P036,Produk 36,Elektronik,Levi's,24097
+P037,Produk 37,Snack,Lifebuoy,15395
+P038,Produk 38,Snack,Lifebuoy,21241
+P039,Produk 39,Minuman,Levi's,43356
+P040,Produk 40,Snack,Levi's,32696
+P041,Produk 41,Kebutuhan Harian,Aqua,9944
+P042,Produk 42,Minuman,Lifebuoy,24816
+P043,Produk 43,Kebutuhan Harian,Indomaret,42011
+P044,Produk 44,Elektronik,Samsung,29917
+P045,Produk 45,Minuman,Samsung,36195
+P046,Produk 46,Elektronik,Levi's,26566
+P047,Produk 47,Minuman,Aqua,14916
+P048,Produk 48,Pakaian,Samsung,25806
+P049,Produk 49,Snack,Lifebuoy,14984
+P050,Produk 50,Pakaian,Levi's,6759
+P051,Produk 51,Elektronik,Indomaret,46949
+P052,Produk 52,Snack,Levi's,31838
+P053,Produk 53,Minuman,Indomaret,7482
+P054,Produk 54,Snack,Levi's,29442
+P055,Produk 55,Kebutuhan Harian,Levi's,38719
+P056,Produk 56,Snack,Levi's,32965
+P057,Produk 57,Kebutuhan Harian,Indomaret,7079
+P058,Produk 58,Snack,Indomaret,7717
+P059,Produk 59,Kebutuhan Harian,Levi's,32952
+P060,Produk 60,Elektronik,Samsung,25908
+P061,Produk 61,Pakaian,Aqua,47460
+P062,Produk 62,Minuman,Aqua,29861
+P063,Produk 63,Snack,Aqua,12311
+P064,Produk 64,Pakaian,Indomaret,33071
+P065,Produk 65,Minuman,Indomaret,28570
+P066,Produk 66,Minuman,Samsung,23449
+P067,Produk 67,Kebutuhan Harian,Aqua,38536
+P068,Produk 68,Elektronik,Aqua,43258
+P069,Produk 69,Elektronik,Levi's,33865
+P070,Produk 70,Pakaian,Indomaret,11645
+P071,Produk 71,Elektronik,Aqua,43000
+P072,Produk 72,Snack,Samsung,31737
+P073,Produk 73,Elektronik,Samsung,16485
+P074,Produk 74,Pakaian,Aqua,43565
+P075,Produk 75,Elektronik,Indomaret,30522
+P076,Produk 76,Snack,Samsung,17342
+P077,Produk 77,Kebutuhan Harian,Levi's,45806
+P078,Produk 78,Pakaian,Samsung,18087
+P079,Produk 79,Kebutuhan Harian,Lifebuoy,42641
+P080,Produk 80,Kebutuhan Harian,Lifebuoy,39249
+P081,Produk 81,Kebutuhan Harian,Indomaret,15093
+P082,Produk 82,Minuman,Aqua,21438
+P083,Produk 83,Minuman,Indomaret,45411
+P084,Produk 84,Kebutuhan Harian,Indomaret,31399
+P085,Produk 85,Pakaian,Indomaret,24846
+P086,Produk 86,Snack,Indomaret,20708
+P087,Produk 87,Snack,Levi's,49039
+P088,Produk 88,Elektronik,Levi's,15998
+P089,Produk 89,Pakaian,Samsung,35678
+P090,Produk 90,Minuman,Lifebuoy,15682
+P091,Produk 91,Kebutuhan Harian,Indomaret,13519
+P092,Produk 92,Elektronik,Samsung,36480
+P093,Produk 93,Snack,Lifebuoy,24694
+P094,Produk 94,Minuman,Aqua,8300
+P095,Produk 95,Minuman,Levi's,11722
+P096,Produk 96,Kebutuhan Harian,Lifebuoy,44986
+P097,Produk 97,Snack,Aqua,29160
+P098,Produk 98,Pakaian,Lifebuoy,25059
+P099,Produk 99,Minuman,Levi's,40822
+P100,Produk 100,Kebutuhan Harian,Levi's,18575
