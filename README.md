@@ -11,7 +11,7 @@ Analisis dilakukan menggunakan berbagai tools data analyst (SQL, Python, dan Pow
 - Menyajikan insight melalui dashboard interaktif
 
 ## 🛠️ Tools yang Digunakan
-- **SQL** → query untuk join & filtering data.
+- **SQL** → data preparation, join multi-tabel, transformasi & feature engineering.
 - **Python** → eksplorasi data, agregasi, dan visualisasi.
 - **Power BI** → pembuatan dashboard interaktif.
 
@@ -26,3 +26,7 @@ Beberapa insight yang diperoleh dari analisis:
 *(Detail insight lengkap tersedia pada dashboard dan notebook di folder terkait.)*
 
 
+
+## ⚠️ Disclaimer
+Dataset yang digunakan pada project ini merupakan **data fiktif** yang di-*generate* untuk tujuan pembelajaran dan portofolio.  
+Tidak ada data asli perusahaan atau data sensitif yang digunakan dalam analisis ini.
