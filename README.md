@@ -26,6 +26,7 @@ Beberapa insight yang diperoleh dari analisis:
 *(Detail insight lengkap tersedia pada dashboard dan notebook di folder terkait.)*
 
 ## 📸 Screenshot Dashboard
+![Dashboard Power BI](Images/Dashboard.png)
 
 ## ⚠️ Disclaimer
 Dataset yang digunakan pada project ini merupakan **data fiktif** yang di-*generate* untuk tujuan pembelajaran dan portofolio.  
