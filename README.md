@@ -18,7 +18,11 @@ Analisis dilakukan menggunakan berbagai tools data analyst (SQL, Python, dan Pow
 ## 📊 Insight Utama
 Beberapa insight yang diperoleh dari analisis:
 - Produk 47 dari Aqua menjadi produk paling diminati dengan total quantity 112.
-- Kategori Kebutuhan Harian berkontribusi terbesar terhadap revenue (22.0%), disusul Elektronik (21.1%), Minuman (19.9%), Snack (19.1%), dan Pakaian (17.9%).
-- Aqua & Levi’s mendominasi beberapa kategori utama, sementara Indomaret dan Lifebuoy punya kontribusi merata di seluruh kategori.
-- Diskon besar (30%) justru mencatat quantity terendah, bukan karena diskonnya tidak efektif, melainkan karena distribusinya sangat sedikit.
+- Kategori **Kebutuhan Harian** menjadi penyumbang total revenue terbesar (22.0%), disusul Elektronik (21.1%), Minuman (19.9%), Snack (19.1%), dan Pakaian (17.9%).
+- **Aqua & Levi’s** mendominasi beberapa kategori utama, sementara Indomaret dan Lifebuoy punya kontribusi merata di seluruh kategori.
+- Diskon besar (30%) justru mencatat quantity terendah, **bukan karena diskonnya tidak efektif, melainkan karena distribusinya sangat sedikit**.
 - Bandung menjadi wilayah dengan total pendapatan tertinggi, diikuti Yogyakarta dan Jakarta.
+
+*(Detail insight lengkap tersedia pada dashboard dan notebook di folder terkait.)*
+
+
